@@ -7,7 +7,11 @@ BottleFlop is an open source tool exploiting an insecure pickle object deseriali
 Screenshots
 ----
 
-![Screenshot](X)
+![Screenshot](https://github.com/Numb3rsProprety/BottleFlop/raw/main/images/images.png)
+
+And in the server side:
+
+![Screenshot](https://github.com/Numb3rsProprety/BottleFlop/raw/main/images/uname.png)
 
 Installation
 ----
