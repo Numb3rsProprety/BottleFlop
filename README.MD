@@ -7,7 +7,7 @@ BottleFlop is an open source tool exploiting an insecure pickle object deseriali
 Screenshots
 ----
 
-![Screenshot](https://raw.github.com/wiki/sqlmapproject/sqlmap/images/sqlmap_screenshot.png)
+![Screenshot](X)
 
 Installation
 ----
